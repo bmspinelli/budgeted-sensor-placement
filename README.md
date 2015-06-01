@@ -10,16 +10,16 @@ For any question, suggestion or comment please write to Brunella Spinelli [3].
 
 ### Implementation
 * sensor_placement/prob_err.py 
-    >> Algorithm to optimally allocate $k$ sensors in order to minimize the
+    >> algorithm to optimally allocate $k$ sensors in order to minimize the
     >> error probability in source localization, i.e., the probability of
     >> obtaining an estimated source different from the actual source of the
     >> diffusion 
 * sensor_placement/exp_dist.py 
-    >> Algorithm to optimally allocate $k$ sensors in order to minimize (in
+    >> algorithm to optimally allocate $k$ sensors in order to minimize (in
     >> expectation) the
     >> distance between the estimated source and the actual one
 * test_prob_err.py, test_exp_dist.py
-    >> Scripts that test the above algorithm on randomly generated trees
+    >> scripts to test the above algorithms on randomly generated trees
 
 ### Dependencies
 This implementation requires the following Python libraries: NetworkX,
