@@ -1,4 +1,4 @@
-### Budgeted sensor placement for source localization on trees
+## Budgeted sensor placement for source localization on trees
 
 This repository is a complement to the paper *Budgeted sensor placement for source localization on trees*[1] presented at [LAGOS conference](http://www.lia.ufc.br/lagos2015/index.php) in May 2015.
 It contains a Python implementation of the algorithms described in
