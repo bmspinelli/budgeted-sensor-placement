@@ -20,7 +20,7 @@ For any question, suggestion or comment please write to Brunella Spinelli [3].
     >> scripts to test the above algorithms on randomly generated trees
 
 ### Dependencies
-This implementation requires the following Python libraries: NetworkX,
+This implementation requires Python 2.7 and the following third-party libraries: NetworkX,
 functools32.
 
 [1] L.E. Celis, F. Pavetic, B. Spinelli, P. Thiran, *Budgeted Sensor Placement for Source Localization on Trees*, LAGOS 2015 
