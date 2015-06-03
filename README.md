@@ -20,6 +20,6 @@ This implementation requires Python 2.7 and the following third-party libraries:
 functools32.
 
 ### References
-[1] L. E. Celis, [F. Pavetić](https://github.com/fpavetic), [B. Spinelli](https://github.com/bmspinelli), P. Thiran, *Budgeted Sensor Placement for Source Localization on Trees*, LAGOS 2015 
+[1] L. E. Celis, [F. Pavetić](https://github.com/fpavetic), [B. Spinelli](https://github.com/bmspinelli), P. Thiran, [*Budgeted Sensor Placement for Source Localization on Trees*](https://github.com/bmspinelli/budgeted-sensor-placement/blob/master/sensor-placement-extended.pdf), LAGOS 2015 
 
 [2] brunella.spinelli@epfl.ch
