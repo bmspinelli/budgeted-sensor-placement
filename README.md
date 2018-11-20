@@ -5,7 +5,7 @@ It contains a Python implementation of the algorithms described in the paper, to
 
 Also, the repository contains the extended version of [1].  
 
-For any question, suggestion or comment please write to Brunella Spinelli [2].
+For any question, suggestion or comment please write to Brunella Spinelli.
 
 ### Implementation
 * __sensor_placement/prob_err.py__  
@@ -21,5 +21,3 @@ functools32.
 
 ### References
 [1] L. E. Celis, [F. Pavetić](https://github.com/fpavetic), [B. Spinelli](https://github.com/bmspinelli), P. Thiran, [*Budgeted Sensor Placement for Source Localization on Trees*](https://github.com/bmspinelli/budgeted-sensor-placement/blob/master/sensor-placement-extended.pdf), LAGOS 2015 
-
-[2] brunella.spinelli@epfl.ch
